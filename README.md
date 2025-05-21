@@ -1,5 +1,5 @@
 <h1 align="center">🌸 Hi 👋, I'm Komal Niazi</h1>
-<h3 align="center">✨ Full-Stack Web Developer | MERN Stack Specialist | Problem Solver ✨</h3>
+<h3 align="center">✨ Full-Stack Web Developer | MERN Stack Specialist |  ✊ Building tech for humanity✨</h3>
 
 <p align="center">
   📍 Pakistan | 🌐 <a href="https://komalniazi.vercel.app/">My Portfolio</a> 
@@ -12,7 +12,7 @@
  
 🔹 **I code for change—transforming ideas into tools that solve real-world problems.**  
 🔹 **Debugging by day, advocating for awareness by night.**  
-
+🔹 *"I blend creativity with code to build solutions that matter."*  
 
  💎 **What I Offer**  
 ✅ **Full-Stack Development** (MERN, PHP, Laravel)  
