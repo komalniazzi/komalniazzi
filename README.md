@@ -10,9 +10,9 @@
 
  🎀 **About Me**
  
-🔹 **I code for change—transforming ideas into tools that solve real-world problems.**  
+🔹 **I code for change transforming ideas into tools that solve real-world problems.**  
 🔹 **Debugging by day, advocating for awareness by night.**  
-🔹 *"I blend creativity with code to build solutions that matter."*  
+  
 
  💎 **What I Offer**  
 ✅ **Full-Stack Development** (MERN, PHP, Laravel)  
