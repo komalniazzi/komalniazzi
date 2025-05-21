@@ -9,6 +9,7 @@
 ---
 
  🎀 **About Me**
+ 
 🔹 **I code for change—transforming ideas into tools that solve real-world problems.**  
 🔹 **Debugging by day, advocating for awareness by night.**  
 
