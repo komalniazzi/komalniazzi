@@ -1,5 +1,5 @@
 <h1 align="center">🌸 Hi 👋, I'm Komal Niazi</h1>
-<h3 align="center">✨ Full-Stack Web Developer | MERN Stack Specialist |  ✊ Building tech for humanity✨</h3>
+<h3 align="center">✨ Full-Stack Web Developer | MERN Stack Specialist | Next Js | ✊ Building tech for humanity✨</h3>
 
 <p align="center">
   📍 Pakistan | 🌐 <a href="https://komalniazi.vercel.app/">My Portfolio</a> 
@@ -15,7 +15,7 @@
   
 
  💎 **What I Offer**  
-✅ **Full-Stack Development** (MERN, PHP, Laravel)  
+✅ **Full-Stack Development** (MERN, React, Next)  
 ✅ **Debugging & Troubleshooting** (Code Reviews, Error Fixes)  
 ✅ **UI/UX Design** (Bootstrap, Tailwind, Responsive Layouts)  
 ✅ **Database Management** (MongoDB, MySQL, Firebase)  
