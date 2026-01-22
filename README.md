@@ -83,9 +83,6 @@
  📊 **GitHub Stats**
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=komalniazzi&color=ff69b4&label=PROFILE+VIEWS&style=for-the-badge)
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=komalniazzi&show_icons=true&theme=radical)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=komalniazzi&layout=compact&theme=radical)
   
