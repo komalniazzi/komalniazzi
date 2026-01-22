@@ -80,16 +80,6 @@
 
 ---
 
- 📊 **GitHub Stats**
-<div align="center">
-  
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=komalniazzi&layout=compact&theme=radical)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=komalniazzi&theme=radical)
-  
-</div>
-
 ---
 
  🌸 **Let's Connect**  
